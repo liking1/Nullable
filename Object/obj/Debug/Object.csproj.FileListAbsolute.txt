@@ -1,0 +1,7 @@
+C:\Users\tlvla\source\repos\Object\Object\bin\Debug\Object.exe.config
+C:\Users\tlvla\source\repos\Object\Object\bin\Debug\Object.exe
+C:\Users\tlvla\source\repos\Object\Object\bin\Debug\Object.pdb
+C:\Users\tlvla\source\repos\Object\Object\obj\Debug\Object.csprojAssemblyReference.cache
+C:\Users\tlvla\source\repos\Object\Object\obj\Debug\Object.csproj.CoreCompileInputs.cache
+C:\Users\tlvla\source\repos\Object\Object\obj\Debug\Object.exe
+C:\Users\tlvla\source\repos\Object\Object\obj\Debug\Object.pdb
